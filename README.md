@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Cursos
 
 You can use the [editor on GitHub](https://github.com/Lazlolabs18/Anorak/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -7,6 +7,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```lev
+Syntax highlighted code block
 
 ```markdown
 Syntax highlighted code block
